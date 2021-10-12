@@ -1,1 +1,1 @@
-# WebAdvert.Web
+# WebAdvert.Web project
